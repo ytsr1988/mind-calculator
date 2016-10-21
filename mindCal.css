@@ -1,4 +1,4 @@
-.myButtonStartExit 
+.myButtonStartExit
 {
 	width:100px;height:150px;
 	-moz-box-shadow: 1px 3px 1px 0px #423d3d;
@@ -177,7 +177,7 @@ table,td,tr
 	border:thin;
 	border-style:solid;
 	border-collapse:collapse;
-	background-color:#FFF;	
+	background-color:#FFF;
 }
 .mainScreen
 {
@@ -216,5 +216,5 @@ table,td,tr
 	font-size:26px;
 }
 body {
-    background-color: pink;
+    background-color: lavender;
 }
